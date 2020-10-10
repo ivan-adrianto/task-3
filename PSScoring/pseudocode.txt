@@ -1,0 +1,7 @@
+1. User memasukkan nilainya
+2. Apabila nilainya 90 s/d 100, maka keluar alert 'nilai anda A'.
+3. Apabila nilainya 75 s/d 89, maka keluar alert 'nilai anda B'.
+4. Apabila nilainya 60 s/d 75, maka keluar alert 'nilai anda C'.
+5. Apabila nilainya 50 s/d 59, maka keluar alert 'nilai anda D'
+6. Apabila nilainya 0 s/d 49, maka keluar alert 'anda tidak lulus'.
+7. Jika yang dimasukkan selain angka 0 s/d 100, maka keluar alert 'nilai yang anda masukkan salah.
