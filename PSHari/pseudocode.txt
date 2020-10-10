@@ -1,0 +1,8 @@
+1. Deklarasikan array dengan isi nama-nama hari.
+2. Prompt, beri perintah user untuk mengisi nama hari.
+3. Cocokkan inputan dari prompt dengan nama hari dengan cara mencari index dari inputan prompt di array hari.
+4. Apabila inputan tidak cocok dengan nama hari, maka munculkan alert ('yang anda masukkan bukan nama hari').
+5. Apabila cocok, cek apakah inputannya. = 'minggu'
+6. Kalau 'minggu', langsung kasih perintah alert (besok senin).
+7. Kalau bukan 'minggu', kasih alert (besok hari (index+1)).
+

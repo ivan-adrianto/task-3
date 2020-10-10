@@ -1,0 +1,3 @@
+1. Buat variabel input=1
+2. Looping variabel input sampai kurang dari sama dengan 15
+3. tambahkan variabel input dengan angka 2 di setiap looping

@@ -11,6 +11,8 @@ else if (input<=74 && input>=60){
 else if (input<=59 && input>=50){
     alert("nilai Anda adalah D")
 }
-else {
+else if (input<=49 && input>=0){
     alert("anda tidak lulus")
+} else {
+    alert ('Nilai yang Anda masukkan salah')
 }
